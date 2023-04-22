@@ -134,7 +134,7 @@ const defaultMenu = {
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 	let tags = {
-  'main': 'Main',
+'main': 'Main',
   'game': 'Game',
   'rpg': 'RPG Games',
   'xp': 'Exp & Limit',
